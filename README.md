@@ -63,25 +63,14 @@ The script will connect to the SSH server, retrieve the hostname, and display it
 ## Project Structure
 
 ssh-hostname-collector/
-│
-├── ssh_hostname_collector.py # Main script
-├── .gitignore # Git ignore file
-├── venv/ # Virtual environment directory
-└── README.md # Project README file
+
+ssh_hostname_collector.py # Main script
+.gitignore # Git ignore file
+venv/ # Virtual environment directory
+README.md # Project README file
 
 
 
+Happy coding!
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
