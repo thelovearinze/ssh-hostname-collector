@@ -8,8 +8,6 @@ A simple Python script to connect to an SSH server and retrieve the hostname. Th
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Requirements
 
